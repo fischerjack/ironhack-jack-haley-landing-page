@@ -29,6 +29,9 @@
 .navy-blue {
   color: #191d31;
 }
+.bg-navy{
+  background: #191d31;
+}
 
 .rounder {
   border-radius: 15px;
