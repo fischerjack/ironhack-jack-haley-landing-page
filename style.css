@@ -1,8 +1,69 @@
-#benefits .card{
+#benefits .card {
   width: 90%;
 }
 
-#benefits img{
+#benefits img {
   width: 100%;
   height: auto;
+}
+
+#buy button {
+  width: 90%;
+}
+
+#hero {
+  background-image: url("./images/Viejita.png");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.bg-pink {
+  background: #fb0683;
+}
+
+.pos-absolute {
+  position: absolute;
+}
+
+.navy-blue {
+  color: #191d31;
+}
+
+.rounder {
+  border-radius: 15px;
+}
+
+.hero-text {
+  font-size: 6rem;
+  font-family: "Poiret One", cursive;
+  margin-top: 60vh;
+  
+}
+
+.caro-img{
+  width: 50%;
+  height: 400px;
+}
+
+#img1{
+  background: url(./images/Pablo.png);
+  background-size: cover;
+  background-position: center;
+}
+#img2{
+  background: url(./images/Girl\ in\ Machu\ Picchu.jpg);
+  background-size: cover;
+  background-position: center;
+}
+#img3{
+  background: url(./images/haley.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.caro-text{
+  font-size: 2rem;
+  padding: 1rem;
 }
