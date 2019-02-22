@@ -8,7 +8,7 @@
 }
 
 #buy button {
-  width: 90%;
+  width: 30%;
 }
 
 #hero {
@@ -67,10 +67,14 @@
 }
 
 .caro-text{
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding: 1rem;
 }
 
 body {
   position: relative;
+}
+#buy-text{
+  font-size: 6rem;
+  font-family: "Poiret One", cursive;
 }
